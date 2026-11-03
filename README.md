@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitnanda25-dev/LeetcodeDSAchallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/harshitnanda25-dev/LeetcodeDSAchallenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshitnanda25-dev/LeetcodeDSAchallenge/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/harshitnanda25-dev/LeetcodeDSAchallenge/tree/master/0229-majority-element-ii) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/harshitnanda25-dev/LeetcodeDSAchallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/harshitnanda25-dev/LeetcodeDSAchallenge/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitnanda25-dev/LeetcodeDSAchallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
