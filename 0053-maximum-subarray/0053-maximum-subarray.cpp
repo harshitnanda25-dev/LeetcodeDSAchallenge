@@ -5,9 +5,9 @@ public:
         int maxSum = INT_MIN;
         for(int i = 0;i<nums.size();i++){
             sum = sum + nums[i];
-            if(sum > maxSum){
+            
                 maxSum = max(maxSum, sum);
-            }
+            
             if(sum < 0){
                 sum = 0;
             }
